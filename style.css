@@ -1,0 +1,10 @@
+@charset "UTF-8"
+
+body{
+    background-image: black;
+    background-attachment: fixed;
+}
+main{
+    background-image: red;
+
+}
